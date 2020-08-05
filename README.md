@@ -1,5 +1,4 @@
 
 ## Templating Laravel 
 
-Tugas dari Sanbercode,
-Nama : Ahmad Fahrudin
+Use Admin LTE
